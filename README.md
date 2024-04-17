@@ -89,24 +89,32 @@ Response:
 
 Adds a bill to the database and returns a success message.
 
-#Technologies Used
+
+Technologies Used
 Flask: Python web framework for building APIs.
 SQLite: Lightweight relational database for storing data.
 Flask JWT Extended: Flask extension for JSON Web Tokens.
 Flask Swagger UI: Flask extension for adding Swagger UI for API documentation.
 
-#Versioning
+
+Versioning
 This project follows a versioning scheme to ensure backward compatibility and facilitate changes over time. The current version is v1. The version is included in the endpoint URLs to allow for future updates without breaking existing client applications.
 
-#Getting Started
+
+Getting Started
 Install Flask, Flask-JWT-Extended, Flask-Swagger-UI, and SQLite3.
 Clone the repository.
 Navigate to the project folder in the terminal.
 Run the Flask application by executing python app.py.
 Access the API endpoints using tools like Postman or curl.
 
-#Data Model 
+
+Data Model 
+
+
 ![image](https://github.com/Dogapinarr/SE-4458-Midterm-/assets/147092474/20e5c12c-1f89-4854-9a97-b452bf997005)
 
-#Video Presentation
+
+
+Video Presentation
 
