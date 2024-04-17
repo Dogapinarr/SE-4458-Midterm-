@@ -96,6 +96,8 @@ SQLite: Lightweight relational database for storing data.
 Flask JWT Extended: Flask extension for JSON Web Tokens.
 Flask Swagger UI: Flask extension for adding Swagger UI for API documentation.
 
+Swagger: http://localhost:5000/swagger/
+
 
 Versioning:
 This project follows a versioning scheme to ensure backward compatibility and facilitate changes over time. The current version is v1. The version is included in the endpoint URLs to allow for future updates without breaking existing client applications.
@@ -116,5 +118,7 @@ Data Model :
 
 
 
-Video Presentation
+Video Presentation :
+
+https://drive.google.com/file/d/1zVj9PF0hSuVGiKRWHZZFfGluDQFciodx/view?usp=drive_link
 
