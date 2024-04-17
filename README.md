@@ -120,5 +120,4 @@ Data Model :
 
 Video Presentation :
 
-https://drive.google.com/file/d/1zVj9PF0hSuVGiKRWHZZFfGluDQFciodx/view?usp=drive_link
-
+https://drive.google.com/file/d/1zVj9PF0hSuVGiKRWHZZFfGluDQFciodx/view?usp=sharing
